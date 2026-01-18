@@ -49,6 +49,19 @@
     "eyes": "sleepy",
     "mouth": "neutral",
     "badge": "Marvel"
+  },
+
+  {
+    "name": "Richard Masawi",
+  "github": "massiv1",
+  "quote": "You live and you learn",
+  "gender": "male",
+  "hairColor": "#100C07",
+  "dressColor": "#3b7f7a",
+  "nameColor": "#2f3328",
+  "eyes": "sleepy",
+  "mouth": "smile",
+  "badge": "Newbie"
   }
 ]
 
